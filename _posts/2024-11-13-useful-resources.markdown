@@ -13,17 +13,17 @@ As the first post, it will be short and to the point. I would like to present yo
 
 #### Courses
 
-CS50 (https://cs50.harvard.edu/x/2024/) - amazing computer science course from Harvard University. All materials and basic certificate is free. You can learn there basics of algorithms, memory, data structure, C and Python languages and more.
+[CS50](https://cs50.harvard.edu/x/2024/) - amazing computer science course from Harvard University. All materials and basic certificate is free. You can learn there basics of algorithms, memory, data structure, C and Python languages and more.
 
-Mooc.fi (https://www.mooc.fi/en/) - site with free courses hosted by the University of Helsinki. You can find there a lot of courses, from beginner Python and Java, to Data Analysis or Test Driven Development.
+[Mooc.fi](https://www.mooc.fi/en/) - site with free courses hosted by the University of Helsinki. You can find there a lot of courses, from beginner Python and Java, to Data Analysis or Test Driven Development.
 
 #### Sites
 
-https://teachyourselfcs.com/ - contains a guide on how to learn computer science using free materials available on the internet. 
+[Teachyourseflcs](https://teachyourselfcs.com/) - contains a guide on how to learn computer science using free materials available on the internet. 
 
-https://learnxinyminutes.com/ - if you know a few programming languages and concepts behind them, and want to quickly grasp the syntax of another one, then here you can find the most crucial information.
+[Learnxinyminutes](https://learnxinyminutes.com/) - if you know a few programming languages and concepts behind them, and want to quickly grasp the syntax of another one, then here you can find the most crucial information.
 
-https://pythontutor.com/ - more useful to the beginners that what to better understand what is their code doing. It visualizes the program's logic working line by line. Supported languages: C, C++, Java, JavaScript and Python.
+[Pythontutor](https://pythontutor.com/) - more useful to the beginners that what to better understand what is their code doing. It visualizes the program's logic working line by line. Supported languages: C, C++, Java, JavaScript and Python.
 
 ### Conclusion
 
