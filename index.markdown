@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Hello, my name is Ignacy Zdrojek and this is my blog. I will post here once in a while if I have something to share.
+
+I hope you will enjoy the content here and have a great day!
