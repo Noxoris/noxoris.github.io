@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "List of useful resources"
-date:   2024-11-13 12:00:00 +0100
+date:   2024-11-13 11:30:00 +0100
 categories: resources
 ---
 
